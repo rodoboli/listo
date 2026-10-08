@@ -4,3 +4,4 @@
 - git commit: guarda tus cambios
 - git log: historial de cambios
 - git status: comprueba cambios
+- git fetch: descarga referencias remotas
