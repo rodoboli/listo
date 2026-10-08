@@ -5,3 +5,4 @@
 - git log: historial de cambios
 - git status: comprueba cambios
 - git fetch: descarga referencias remotas
+- git push: sube commits
